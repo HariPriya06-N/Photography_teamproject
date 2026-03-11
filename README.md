@@ -1,32 +1,35 @@
+
 # 📸 Fotogency (Photography Website)
 
 ### 🌐 Live Demo  
-🔗 [View Live Website](https://tubular-marzipan-9a9e3e.netlify.app/)
+🔗 View Live Website: https://tubular-marzipan-9a9e3e.netlify.app/
 
 ---
 
 ### ⚙️ Tech Stack
-- HTML5, CSS3  
-- Git & GitHub for version control  
-- Frontend-only project for practice in full-stack course  
+- HTML5
+- CSS3
+- Git & GitHub for version control
+- Frontend-only project for practice in full-stack course
 
 ---
 
 ### 🚀 Project Overview
-- Collaborative team project for practice using an **existing photography website**.  
-- Features included: Portfolio, Gallery, Exhibition, About, and Blog sections.  
-- Focused on building a clean, structured, and user-friendly website.  
+- Collaborative team project built using an existing photography website concept.
+- Includes sections like Portfolio, Gallery, Exhibition, About, and Blog.
+- Focused on creating a clean, structured, and user-friendly interface.
 
 ---
 
 ### 🛠️ My Contributions
-- Designed and implemented the **Home Page** using HTML5 and CSS3.  
-- Focused on **layout, structure, and clean design** for the landing experience.  
-- Initiated and managed the **GitHub repository**, coordinated team pushes, pulls, merges, and integrated all modules into a cohesive website.  
+- Designed and developed the **Home Page** using HTML5 and CSS3.
+- Worked on layout design and improving the landing page experience.
+- Collaborated with the team and integrated modules using Git and GitHub.
 
 ---
 
-### 👩‍💻 Author
-**Hari Priya Natukula**  
-📧 [natukulaharipriya@gmail.com](mailto:natukulaharipriya@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/haripriya-natukula) | [GitHub](https://github.com/HariPriya06-N)
+### 👨‍💻 Author
+**Ravva Venkata SaiPavan**
+
+📧 Email: ravvasaipavan@gmail.com  
+🔗 GitHub: https://github.com/SaiPavan2204
